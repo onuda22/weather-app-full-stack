@@ -1,10 +1,10 @@
 # Weather App with Java Spring Boot and Rest Client Implementation
 
 ## Contributor:
-**[7. Hadiat Abdul Bashit](github.com/HadiatAbdulBashit)** \
-**[13. Nurdiansyah](github.com/Nurdiansyah15)** \
-**[14. Oki Nurul Abada](github.com/onuda22)** \
-**[19. Virgo Fajar Pamungkas](github.com/virgojs)** 
+**[7. Hadiat Abdul Bashit](https://github.com/HadiatAbdulBashit)** \
+**[13. Nurdiansyah](https://github.com/Nurdiansyah15)** \
+**[14. Oki Nurul Abada](https://github.com/onuda22)** \
+**[19. Virgo Fajar Pamungkas](https://github.com/virgojs)** 
 
 ## This app was build to get information about weather climate change, like:
 ### Weather Information, include

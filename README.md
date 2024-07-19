@@ -4,7 +4,7 @@
 **[7. Hadiat Abdul Bashit](https://github.com/HadiatAbdulBashit)** \
 **[13. Nurdiansyah](https://github.com/Nurdiansyah15)** \
 **[14. Oki Nurul Abada](https://github.com/onuda22)** \
-**[19. Virgo Fajar Pamungkas](https://github.com/virgojs)** 
+**[19. Virgo Fajar Pamungkas](https://github.com/viorjs)** 
 
 ## This app was build to get information about weather climate change, like:
 ### Weather Information, include
